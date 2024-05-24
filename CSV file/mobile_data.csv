@@ -1,0 +1,101 @@
+id,mobile_model,brand,price,units_sold
+1,Samsung Galaxy S10,Apple,24899.92,98070
+2,Samsung Galaxy S10,OnePlus,22799.04,53966
+3,Google Pixel 3,Huawei,44769.32,25434
+4,Huawei P30,Samsung,39433.66,9069
+5,Samsung Galaxy S10,OnePlus,31044.22,90369
+6,OnePlus 7,Samsung,41461.77,91647
+7,iPhone X,Apple,29121.68,83444
+8,Google Pixel 3,OnePlus,21421.37,92122
+9,OnePlus 7,Apple,42403.73,18177
+10,Huawei P30,OnePlus,17358.4,73886
+11,Google Pixel 3,Google,20546.41,70156
+12,Google Pixel 3,Apple,24179.48,29269
+13,Samsung Galaxy S10,Huawei,31357.49,74909
+14,Samsung Galaxy S10,Samsung,30734.16,86590
+15,Huawei P30,Huawei,41753.07,19960
+16,OnePlus 7,Google,17851.27,44327
+17,OnePlus 7,Samsung,32519.8,82499
+18,OnePlus 7,Huawei,49567.0,8335
+19,Google Pixel 3,Huawei,24976.8,31016
+20,Samsung Galaxy S10,Huawei,46344.51,93081
+21,Google Pixel 3,Samsung,12065.23,52765
+22,Samsung Galaxy S10,OnePlus,27497.44,95286
+23,Google Pixel 3,OnePlus,44540.51,74889
+24,OnePlus 7,OnePlus,45508.58,18080
+25,iPhone X,Google,22078.37,25107
+26,Huawei P30,OnePlus,21684.78,19191
+27,Samsung Galaxy S10,Apple,11604.87,95098
+28,OnePlus 7,OnePlus,35901.73,51889
+29,Samsung Galaxy S10,OnePlus,29409.16,20562
+30,Samsung Galaxy S10,Samsung,38863.61,20018
+31,Samsung Galaxy S10,Huawei,26910.63,63161
+32,iPhone X,Apple,38681.48,1135
+33,Google Pixel 3,Samsung,43738.05,58920
+34,Huawei P30,OnePlus,38959.48,25206
+35,OnePlus 7,Apple,38820.82,2221
+36,iPhone X,Samsung,46517.72,8336
+37,iPhone X,Huawei,31304.86,80867
+38,Google Pixel 3,OnePlus,45129.08,54946
+39,Google Pixel 3,OnePlus,12192.81,8334
+40,Samsung Galaxy S10,Samsung,34079.92,73265
+41,iPhone X,Google,30750.6,2125
+42,Samsung Galaxy S10,Samsung,32788.87,41850
+43,Google Pixel 3,Samsung,14138.56,78438
+44,Samsung Galaxy S10,Google,28066.09,45882
+45,Google Pixel 3,OnePlus,48705.55,33169
+46,Google Pixel 3,OnePlus,49250.74,34724
+47,Google Pixel 3,Huawei,28161.49,25797
+48,OnePlus 7,Samsung,18331.39,83160
+49,OnePlus 7,Google,41561.1,18558
+50,iPhone X,Samsung,42364.06,40381
+51,iPhone X,Google,12361.14,58134
+52,OnePlus 7,Samsung,42726.82,83651
+53,iPhone X,OnePlus,44006.68,50456
+54,Google Pixel 3,Huawei,10249.19,48326
+55,Google Pixel 3,Samsung,48845.8,38890
+56,Huawei P30,Samsung,23423.79,92465
+57,Google Pixel 3,Apple,43824.67,64821
+58,Samsung Galaxy S10,Samsung,10184.33,89029
+59,Samsung Galaxy S10,Samsung,12577.19,39726
+60,Huawei P30,OnePlus,25041.19,93820
+61,iPhone X,Samsung,45377.96,26693
+62,Google Pixel 3,OnePlus,31767.07,29111
+63,Samsung Galaxy S10,Samsung,10696.61,3778
+64,Google Pixel 3,Huawei,29387.42,20975
+65,Huawei P30,OnePlus,26170.44,94226
+66,iPhone X,OnePlus,21034.21,17726
+67,Samsung Galaxy S10,Apple,45188.0,85062
+68,Huawei P30,Samsung,46766.95,59990
+69,Google Pixel 3,Samsung,38346.28,32188
+70,Samsung Galaxy S10,Google,44667.2,62240
+71,Samsung Galaxy S10,Apple,14881.49,84215
+72,iPhone X,OnePlus,19983.93,27874
+73,Google Pixel 3,Huawei,18947.96,85506
+74,Samsung Galaxy S10,Google,34629.24,3557
+75,OnePlus 7,OnePlus,14584.26,80756
+76,Huawei P30,OnePlus,17554.1,56977
+77,Samsung Galaxy S10,Samsung,38436.89,66612
+78,iPhone X,Google,45121.12,29816
+79,Google Pixel 3,Huawei,26340.53,98832
+80,Google Pixel 3,OnePlus,44360.05,42334
+81,Huawei P30,OnePlus,33854.66,56163
+82,OnePlus 7,OnePlus,27722.89,68748
+83,Samsung Galaxy S10,OnePlus,14885.13,23952
+84,Samsung Galaxy S10,Samsung,42787.19,62072
+85,Huawei P30,Google,24863.49,67347
+86,OnePlus 7,OnePlus,25184.93,22899
+87,Huawei P30,Samsung,37426.86,93833
+88,iPhone X,Samsung,49395.79,47694
+89,iPhone X,Huawei,42837.05,58974
+90,OnePlus 7,Huawei,12397.78,26841
+91,Google Pixel 3,Huawei,35824.53,43898
+92,OnePlus 7,Google,37216.39,36374
+93,Google Pixel 3,Apple,47193.63,3783
+94,OnePlus 7,Huawei,44188.13,78003
+95,Samsung Galaxy S10,Apple,25207.03,73875
+96,Samsung Galaxy S10,Google,11337.02,93528
+97,Huawei P30,Google,17472.22,57747
+98,OnePlus 7,Huawei,13730.54,18476
+99,Huawei P30,Samsung,23388.9,62120
+100,iPhone X,Google,19241.42,21854
